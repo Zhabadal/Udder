@@ -8,6 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    override func loadView() {
+        <#code#>
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,6 +25,5 @@ class ViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         
     }
-
 }
 
